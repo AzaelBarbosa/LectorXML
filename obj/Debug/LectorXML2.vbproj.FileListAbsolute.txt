@@ -1,0 +1,14 @@
+D:\_SISTEMAS\LectorXML2\bin\Debug\LectorXML2.exe
+D:\_SISTEMAS\LectorXML2\bin\Debug\LectorXML2.pdb
+D:\_SISTEMAS\LectorXML2\bin\Debug\LectorXML2.xml
+D:\_SISTEMAS\LectorXML2\obj\Debug\LectorXML2.Resources.resources
+D:\_SISTEMAS\LectorXML2\obj\Debug\LectorXML2.vbproj.GenerateResource.Cache
+D:\_SISTEMAS\LectorXML2\obj\Debug\LectorXML2.exe
+D:\_SISTEMAS\LectorXML2\obj\Debug\LectorXML2.xml
+D:\_SISTEMAS\LectorXML2\obj\Debug\LectorXML2.pdb
+D:\_SISTEMAS\LectorXML2\obj\Debug\LectorXML2.frmLeerXML.resources
+D:\_SISTEMAS\LectorXML2\obj\Debug\LectorXML2.vbproj.ResolveComReference.cache
+D:\_SISTEMAS\LectorXML2\obj\Debug\LectorXML2.PADRE.resources
+D:\_SISTEMAS\LectorXML2\obj\Debug\LectorXML2.RutaArchivo.resources
+D:\_SISTEMAS\LectorXML2\obj\Debug\Interop.ADODB.dll
+D:\_SISTEMAS\LectorXML2\obj\Debug\Interop.MSAdodcLib.dll
